@@ -22,5 +22,6 @@ $RECYCLE.BIN/
 # Operating System Files
 # =========================
 djangular/Lib/site-packages/pip-9.0.1.dist-info/INSTALLER
+\taskManagement\scrumboard\__pycache__\*
 
 
